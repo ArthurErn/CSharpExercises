@@ -1,0 +1,5 @@
+C:\Users\Vista\Desktop\exercicios_c_sharp\ConstructorReference\ConstructorReference\obj\Debug\netcoreapp3.1\ConstructorReference.csproj.AssemblyReference.cache
+C:\Users\Vista\Desktop\exercicios_c_sharp\ConstructorReference\ConstructorReference\obj\Debug\netcoreapp3.1\ConstructorReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vista\Desktop\exercicios_c_sharp\ConstructorReference\ConstructorReference\obj\Debug\netcoreapp3.1\ConstructorReference.AssemblyInfoInputs.cache
+C:\Users\Vista\Desktop\exercicios_c_sharp\ConstructorReference\ConstructorReference\obj\Debug\netcoreapp3.1\ConstructorReference.AssemblyInfo.cs
+C:\Users\Vista\Desktop\exercicios_c_sharp\ConstructorReference\ConstructorReference\obj\Debug\netcoreapp3.1\ConstructorReference.csproj.CoreCompileInputs.cache
