@@ -1,0 +1,13 @@
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\bin\Debug\netcoreapp3.1\VectorExercise.exe
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\bin\Debug\netcoreapp3.1\VectorExercise.deps.json
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\bin\Debug\netcoreapp3.1\VectorExercise.runtimeconfig.json
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\bin\Debug\netcoreapp3.1\VectorExercise.runtimeconfig.dev.json
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\bin\Debug\netcoreapp3.1\VectorExercise.dll
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\bin\Debug\netcoreapp3.1\VectorExercise.pdb
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\obj\Debug\netcoreapp3.1\VectorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\obj\Debug\netcoreapp3.1\VectorExercise.AssemblyInfoInputs.cache
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\obj\Debug\netcoreapp3.1\VectorExercise.AssemblyInfo.cs
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\obj\Debug\netcoreapp3.1\VectorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\obj\Debug\netcoreapp3.1\VectorExercise.dll
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\obj\Debug\netcoreapp3.1\VectorExercise.pdb
+C:\Users\Vista\Documents\GitHub\CSharpExercises\VectorExercise\VectorExercise\obj\Debug\netcoreapp3.1\VectorExercise.genruntimeconfig.cache
