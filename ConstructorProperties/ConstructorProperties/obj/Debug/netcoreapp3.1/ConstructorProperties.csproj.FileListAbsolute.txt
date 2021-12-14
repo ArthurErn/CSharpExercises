@@ -1,0 +1,5 @@
+C:\Users\Vista\Documents\GitHub\CSharpExercises\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.csproj.AssemblyReference.cache
+C:\Users\Vista\Documents\GitHub\CSharpExercises\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vista\Documents\GitHub\CSharpExercises\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.AssemblyInfoInputs.cache
+C:\Users\Vista\Documents\GitHub\CSharpExercises\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.AssemblyInfo.cs
+C:\Users\Vista\Documents\GitHub\CSharpExercises\ConstructorProperties\ConstructorProperties\obj\Debug\netcoreapp3.1\ConstructorProperties.csproj.CoreCompileInputs.cache
