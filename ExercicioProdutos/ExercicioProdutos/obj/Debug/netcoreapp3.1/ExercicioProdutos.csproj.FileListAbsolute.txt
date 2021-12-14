@@ -1,0 +1,14 @@
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.exe
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.deps.json
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.runtimeconfig.json
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.runtimeconfig.dev.json
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.dll
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\bin\Debug\netcoreapp3.1\ExercicioProdutos.pdb
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.AssemblyInfoInputs.cache
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.AssemblyInfo.cs
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.dll
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.pdb
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.genruntimeconfig.cache
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioProdutos\ExercicioProdutos\obj\Debug\netcoreapp3.1\ExercicioProdutos.csproj.AssemblyReference.cache

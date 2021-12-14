@@ -1,0 +1,14 @@
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\bin\Debug\netcoreapp3.1\ExercicioDeClasses.exe
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\bin\Debug\netcoreapp3.1\ExercicioDeClasses.deps.json
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\bin\Debug\netcoreapp3.1\ExercicioDeClasses.runtimeconfig.json
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\bin\Debug\netcoreapp3.1\ExercicioDeClasses.runtimeconfig.dev.json
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\bin\Debug\netcoreapp3.1\ExercicioDeClasses.dll
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\bin\Debug\netcoreapp3.1\ExercicioDeClasses.pdb
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\obj\Debug\netcoreapp3.1\ExercicioDeClasses.csproj.AssemblyReference.cache
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\obj\Debug\netcoreapp3.1\ExercicioDeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\obj\Debug\netcoreapp3.1\ExercicioDeClasses.AssemblyInfoInputs.cache
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\obj\Debug\netcoreapp3.1\ExercicioDeClasses.AssemblyInfo.cs
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\obj\Debug\netcoreapp3.1\ExercicioDeClasses.csproj.CoreCompileInputs.cache
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\obj\Debug\netcoreapp3.1\ExercicioDeClasses.dll
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\obj\Debug\netcoreapp3.1\ExercicioDeClasses.pdb
+C:\Users\Vista\Desktop\exercicios_c_sharp\ExercicioDeClasses\ExercicioDeClasses\obj\Debug\netcoreapp3.1\ExercicioDeClasses.genruntimeconfig.cache
